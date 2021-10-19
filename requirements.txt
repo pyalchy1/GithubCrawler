@@ -1,0 +1,4 @@
+requests
+coverage
+pytest
+bs4
